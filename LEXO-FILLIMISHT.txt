@@ -1,0 +1,19 @@
+BOTA E MATEMATIKËS — LOJËRAT NË NJË VEND
+
+NË LAPTOP OSE TABELË DIGJITALE
+Nxirrni të gjithë ZIP-in me “Extract All”. Hapni index.html në dosjen
+e dalë. Mbajini skedarët dhe dosjet së bashku.
+
+RROTA E DETYRAVE
+Hapni “Ndrysho detyrat”. Shkruani nga një detyrë për rresht (2–16),
+shtypni “Ruaj detyrat”, pastaj “Rrotullo”. Për ta kaluar listën në
+një pajisje tjetër, përdorni “Shkarko listën (.txt)” dhe “Hap një listë (.txt)”.
+
+PËR GITHUB PAGES
+Kur të vendosni ta publikoni, ngarkoni përmbajtjen e nxjerrë, me
+index.html në nivelin kryesor dhe me dosjet në vendet e tyre.
+
+KRIJO NJË KUIZ
+Nga menuja zgjidhni “Krijo një kuiz”. Provoni “Zbritja deri në 30”.
+Kontrolloni pyetjet dhe shtypni “Luaj në klasë”. Gjeneruesi punon
+pa internet për mbledhje, zbritje dhe krahasim deri në 100.
