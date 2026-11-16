@@ -1,0 +1,17 @@
+TËRHEQJA E LITARIT – VERSIONI 2
+
+Nxirre ZIP-in dhe hape index.html. Punon pa internet; nuk kërkon instalim.
+Dy nxënës ose ekipe luajnë në të njëjtën pajisje. Secili përdor tastierën në anën e vet.
+Zgjidh mbledhje, zbritje, të përziera ose shumëzim; zgjidh nivelin dhe prek Fillo garën.
+Ushtrimet janë të ndryshme për dy lojtarët. Në të njëjtën pozitë të vargut përdoren i njëjti veprim dhe kategori vështirësie (kalim dhjetësheje/numër shifrash).
+Çdo përgjigje e saktë tërheq litarin një hap drejt ekipit. Fiton ai që krijon epërsi prej 6 hapash.
+Përgjigjja e gabuar nuk e lëviz litarin; mund të provosh sërish.
+Me kohëmatës: zgjidh 30–600 sekonda. Në fund fiton ai me më shumë përgjigje të sakta. Barazimi ruhet nëse pikët janë të njëjta.
+Te shumëzimi, niveli deri në 10 përdor faktorë 1–5; nivelet e tjera përdorin faktorë 1–10.
+Pauzë ndal kohëmatësin dhe tastierat. Ndërrimi i skedës e vendos lojën në pauzë.
+Tingujt janë opsionalë. Ekrani i plotë: butoni përkatës ose F11.
+Prekja në tastiera është e pavarur. Për përdorim njëkohësisht, tabela digjitale dhe lidhja me laptopin duhet të mbështesin disa prekje.
+Për provë me një maus, përgjigju njëherë në njërën anë dhe pastaj në tjetrën.
+Lojë origjinale në shqip me ilustrime vektoriale; krijuar sipas modelit të përgjithshëm të garës matematikore me litar. Është shembulli i parë për koleksionin e ardhshëm.
+
+Versioni 2: një aktivizim i vetëm për çdo prekje; korrigjohet shkrimi i dyfishtë i shifrave.

@@ -1,0 +1,10 @@
+BOTA E MATEMATIKËS – VERSIONI 4
+
+Nxirre ZIP-in në një dosje të re dhe hape index.html. Në faqe duhet të shkruajë Versioni 4.
+Kartat që nuk përputhen mbyllen automatikisht pas 1.4 sekondash. Çiftet e sakta mbeten të hapura.
+Gjuetia e numrave: gjej numrin në një katror me 16 numra.
+Janë ndryshuar njësitë 4, 5, 7, 9, 10, 16, 17, 26, 27, 42, 43, 62, 63, 64, 65.
+Në garë nxënësit marrin ushtrime të ndryshme të të njëjtit lloj. Secili ka pikët e veta.
+Zgjidh mënyrën e lojës dhe kohëmatësin opsional në menu para se të hapësh lojën.
+Për kartat, secili ka tabelën e vet.
+Në disa njësi konceptuale që nuk ishin pjesë e këtij rishikimi mund të ketë ende shembuj të përsëritur.

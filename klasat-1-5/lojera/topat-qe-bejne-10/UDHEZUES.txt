@@ -1,0 +1,11 @@
+TOPAT QË BËJNË 10 – VERSIONI 1
+
+Nxirre ZIP-in në një dosje të re dhe hape index.html. Punon pa internet.
+Zgjidh shumën 10 ose 20 dhe shpejtësinë. Shtyp Fillo.
+Topi yt është në fund, në mes. Prek një top në varg për të gjuajtur drejt tij.
+Nëse dy numrat formojnë shumën e kërkuar, topat hiqen, fiton 10 pikë dhe vargu shkurtohet.
+Nëse gjuan gabim, topi yt shtohet në varg. Nëse gjuan anash, nuk fiton pikë.
+Loja mbaron kur vargu arrin tunelin. Në ushtrimin pa lëvizje, gjuajtjet e gabuara mund ta shtyjnë vargun drejt tunelit.
+Kohëmatësi aktivizohet vetëm nëse e zgjedh. Pauza ndal lëvizjen dhe kohën. Ndërrimi i skedës e vendos lojën në pauzë.
+Për laptop: shënjestro me maus dhe kliko. Mund të përdorësh edhe shigjetat dhe Hapësirën/Enter kur fusha ka fokus.
+Kjo është lojë e re origjinale në shqip me ilustrime të krijuara me kod, bazuar në mekanizmin e përgjithshëm të shënjestrimit të numrave. Nuk është kopje e skedarëve të Toy Theater.

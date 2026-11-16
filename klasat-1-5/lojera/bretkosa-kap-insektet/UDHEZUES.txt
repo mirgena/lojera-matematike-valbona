@@ -1,0 +1,10 @@
+BRETKOSA KAP INSEKTET – VERSIONI 1
+Nxirre ZIP-in dhe hape index.html. Punon pa internet.
+Zgjidh numrat deri në 10 ose 20. Kohëmatësi është opsional.
+Gjethet janë boshti numerik. Bretkosa ka numrin e saj dhe insekti është te numri i verdhë.
+Prek mbledhjen ose zbritjen që e çon bretkosën te insekti.
+Përgjigjja e saktë: bretkosa kërcen, kap insektin dhe fiton 10 pikë. Sfidë e re automatikisht.
+Gabimi: bretkosa shkon te numri i veprimit të zgjedhur, insekti zhvendoset dhe vjen një mundësi e re.
+Në nivelin deri në 20 numrat vazhdojnë nga e majta në të djathtë në dy rreshta.
+Pauza ndal kohën dhe lëvizjen. Lojë individuale; nxënësit mund të ndërrojnë radhën.
+Ky është modeli i tretë origjinal në shqip për koleksionin e lojërave me aventura.

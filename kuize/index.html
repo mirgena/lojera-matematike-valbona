@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="sq"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Krijo një kuiz · Bota e Matematikës</title><link rel="stylesheet" href="../stil.css">
+<style>
+[hidden]{display:none!important}label{display:block;font-weight:700;margin:10px 0}input,select{font:inherit;min-height:48px;padding:9px;border:2px solid #acb6d6;border-radius:10px;width:100%;background:white;color:inherit}input:focus-visible,select:focus-visible{outline:3px solid #e57f00;outline-offset:3px}.setup{display:grid;grid-template-columns:3fr 1fr;gap:16px}.examples button[aria-pressed=true]{background:#252759;color:white}.editor{margin:12px 0;border:1px solid #dce3f5;border-radius:14px;padding:12px}.options,.edit-options{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}.options button{border:2px solid #b9bee5;min-height:76px;font-size:1.6rem;overflow-wrap:anywhere}.options button[aria-pressed=true]{background:#373696;color:#fff;border-color:#373696}#question{font-size:clamp(1.7rem,5vw,3.5rem);overflow-wrap:anywhere}#score{font-size:2rem;font-weight:800}#feedback,#editError{color:#922b21}.results li{margin-bottom:12px}.row{margin-top:10px}@media(max-width:560px){.setup,.edit-options{grid-template-columns:1fr}.options{grid-template-columns:1fr}}
+</style></head><body><main>
+<a class="back" href="../index.html">← Menuja e lojërave</a>
+<header class="hero"><p class="kicker">KLASA II · PA INTERNET</p><h1>Krijo një kuiz</h1><p>Shkruaj temën. Provo pyetjet dhe luaj pa kohëmatës.</p></header>
+<section class="panel" id="make" aria-label="Gjeneruesi">
+<form id="generate"><div class="setup"><label for="topic">Tema<input id="topic" required maxlength="90" placeholder="P.sh. Zbritja deri në 30"></label><label for="amount">Numri i pyetjeve<select id="amount"><option>5</option><option>8</option><option>10</option></select></label></div>
+<p class="muted">Temat e gatshme (deri në 100):</p>
+<div class="row examples" id="examples"><button type="button">Mbledhja deri në 20</button><button type="button">Zbritja deri në 30</button><button type="button">Krahasimi deri në 100</button></div>
+<div class="row"><button class="primary">Krijo kuizin</button></div><p role="status" id="feedback"></p>
+</form></section>
+<section class="panel" id="review" hidden><h2 id="reviewTitle" tabindex="-1">Kontrollo kuizin</h2><p>Kontrollo pyetjet dhe përgjigjet. Mund t’i ndryshosh para lojës.</p>
+<form id="confirm"><div id="editors"></div><p role="alert" id="editError"></p><button class="primary">Luaj në klasë →</button></form></section>
+<section class="panel" id="play" hidden><p class="kicker" style="color:#5b477e" id="progress"></p><h2 id="question" tabindex="-1"></h2><div class="options" id="choices" role="group" aria-label="Alternativat"></div>
+<div class="row"><button id="next" class="primary" disabled>Vazhdo →</button><button id="returnEdit">Kthehu te kuizi</button></div></section>
+<section class="panel" id="end" hidden><h2 id="finish" tabindex="-1">Kuizi përfundoi!</h2><p id="score"></p><ol class="results" id="results"></ol>
+<div class="row"><button id="again" class="primary">Luaj përsëri</button><button id="new">Krijo një kuiz tjetër</button></div></section>
+</main><footer style="text-align:center;padding:12px 16px 22px;color:#33466b">Punuar nga Valbona Rama</footer><script src="kuizi.js"></script></body></html>

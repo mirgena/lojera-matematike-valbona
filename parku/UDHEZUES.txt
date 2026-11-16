@@ -1,0 +1,15 @@
+PARKU I LOJËRAVE – SHQIP – VERSIONI 1
+
+Nxirre ZIP-in dhe hape index.html. Punon pa internet. Dosje e veçantë nga Bota e Matematikës V4.
+Nivelet: 5–6, 7–8 dhe 9–11 vjeç janë orientuese; mësuesja zgjedh sipas njohurive.
+
+1. Dyqani i Lirës: prek monedhat për të paguar shumën e saktë. Në nivelin e tretë alternohen pagesa dhe gjetja e kusurit.
+2. Peshorja e numrave: plotëso barazimin. Fillimisht mbledhje, në nivelin e tretë shumëzim.
+3. Treni i modeleve: vazhdo modele me figura, vargje aritmetike ose dyfishime.
+4. Gara e pyllit: dy lojtarë luajnë me radhë; përgjigjja e saktë e lëviz lojtarin sipas zarit. Fiton ai që arrin te 20.
+5. Pasqyra me ngjyra: zgjidh ngjyrën dhe plotëso anën e djathtë si pasqyrim të anës së majtë. Ka edhe vizatim të lirë.
+6. Kopshti i kujtesës: numër–sasi, mbledhje–rezultat ose shumëzim–rezultat. Kartat mbyllen automatikisht kur nuk përputhen.
+
+Lojërat janë krijime origjinale në shqip, me ide të përgjithshme nga lojërat edukative. Nuk janë lojëra të shkarkuara ose përkthime zyrtare të faqeve të tjera.
+Përdor prekje ose maus. Për ekran të plotë shtyp butonin në menu ose F11.
+Për GitHub Pages, kjo dosje mund të ngarkohet si parku-i-lojerave; tani është paketë lokale, ende e papublikuar.

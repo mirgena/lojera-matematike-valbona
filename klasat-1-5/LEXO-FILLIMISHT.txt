@@ -1,0 +1,11 @@
+BOTA E MATEMATIKËS - KLASAT I-V - VERSIONI 2
+
+Nxirre ZIP-in me Extract All. Hape dosjen bota-klasat-1-5 dhe index.html në dosjen kryesore.
+Zgjidh klasën; materialet janë në dosjet klasa-1 deri te klasa-5.
+Çdo klasë ka aktivitete, fletë pune PDF, fletë plotësimi në ekran, zgjidhjet dhe këndin e mësueses.
+Pesë aventurat ekzistuese janë te dosja lojera. Për klasat IV-V disa aventura përdoren për përsëritje, jo për temat e reja të këtyre klasave.
+Katër modelet e reja përdorin tema të ndryshme sipas klasës; janë 4 mënyra loje, jo 20 motorë të ndryshëm.
+Për printim, hape PDF-në dhe shtyp Ctrl+P. PDF-të janë për plotësim me laps; fleta-online.html plotësohet në ekran.
+Ndarja sipas klasave është orientuese dhe duhet përshtatur me njësitë e mësuara.
+Të gjitha materialet vendore punojnë pa internet; vetëm burimet e jashtme kërkojnë internet.
+Mbaje dosjen të plotë. Paketa nuk është publikuar automatikisht në GitHub.
